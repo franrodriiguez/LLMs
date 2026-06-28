@@ -57,6 +57,9 @@ AI_Ticketing_Advisor/
 │   ├── event_embeddings.pkl
 │   └── faiss_index.bin
 │
+├── images/
+│   ├── retrieval_ejemplo.png
+│   └── rag_ejemplo.png
 │
 ├── notebooks/
 │   ├── 01_creacion_dataset.ipynb
@@ -196,4 +199,4 @@ La siguiente imagen muestra la recomendación generada por el sistema a partir d
 
 **Francisco Rodríguez-Córdoba**
 
-Proyecto desarrollado como práctica final del **Bootcamp de AI Engineering**.
+Proyecto desarrollado como práctica final del **módulo de Large Language Models**.
